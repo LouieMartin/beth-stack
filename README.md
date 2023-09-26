@@ -1,4 +1,4 @@
-# twitter-clone
+# beth-stack
 
 To install dependencies:
 
